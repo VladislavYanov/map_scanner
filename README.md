@@ -3,7 +3,11 @@
 
 Это репозиторий проекта Компьютерное зрение в музее: оцифровываем карты программы ПАНДАН ЕУ СПб
 
+Пример работы алгоритма в папке [examples/output](https://github.com/VladislavYanov/map_scanner/tree/main/examples/output)
+
 ![Сайт проекта](http://projects.pandan.eusp.org/map_scanner)
+
+[Ссылка на видео с которых были сделаны панорамы](https://drive.google.com/drive/folders/1IbupJ0Die2wutfJO55lcgCu7AdYoTIbE?usp=sharing)
 
 
 # References:
